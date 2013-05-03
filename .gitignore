@@ -1,5 +1,5 @@
-*.class
 .idea
+*.class
 *.iml
 
 # Package Files #
